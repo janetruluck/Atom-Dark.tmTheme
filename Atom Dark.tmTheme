@@ -434,6 +434,28 @@
 				<string>#ededed</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff insertion</string>
+			<key>scope</key>
+			<string>markup.inserted.diff, meta.diff.header.to-file</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9fff60</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diff deletion</string>
+			<key>scope</key>
+			<string>markup.deleted.diff, meta.diff.header.from-file</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
@@ -443,3 +465,4 @@
 	<string>Jason Truluck</string>
 </dict>
 </plist>
+
