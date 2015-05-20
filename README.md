@@ -1,9 +1,13 @@
 Atom-Dark.tmTheme
 =================
 
-[Atom Dark UI](https://github.com/atom/atom-dark-ui) Port to .tmTheme for Sublime Text
+#### Changes
 
-> Added two more themes "Atom Dark Grey Text" and "Atom Dark Grey Text Green Cursor" which have a closer text color match to original Atom Dark UI. The last one has as only modification a green cursor.
+Added two more themes **"Atom Dark Grey Text"** and **"Atom Dark Grey Text Green Cursor"** which have a closer text color match to original Atom Dark UI. The last one only makes the cursor deep green. [MR]
+
+---
+
+[Atom Dark UI](https://github.com/atom/atom-dark-ui) Port to .tmTheme for Sublime Text
 
 ![preview](preview.gif)
 
@@ -14,6 +18,7 @@ For the best experience I recommend pairing with the [Soda Dark](https://github.
 1. Download the `.tmTheme` file
 2. *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
 3. Copy the `.tmTheme` files to `Packages\User`
+4. Activate the color in your preferences menu
 
 #### Optional Cursor modifications
 
