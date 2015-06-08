@@ -9,7 +9,11 @@ Added two more themes **"Atom Dark Grey Text"** and **"Atom Dark Grey Text Green
 
 [Atom Dark UI](https://github.com/atom/atom-dark-ui) Port to .tmTheme for Sublime Text
 
-![preview](preview.gif)
+First version:  
+![preview1](preview1.gif)
+
+More atom like dark grey text:  
+![preview2](preview2.png)
 
 For the best experience I recommend pairing with the [Soda Dark](https://github.com/buymeasoda/soda-theme) theme and the [Lucida Console](http://www.ffonts.net/Lucida-Console.font) font.
 
